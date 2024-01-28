@@ -1,2 +1,2 @@
-Created a basic banking system
-Just a practice project to use C++ & OOPS concept
+Built a robust bank management system using OOP to optimize operational efficiency, improve user experience, and
+strengthen data security.
